@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://eekailaiph.geeuphq.com/sitemap.xml
